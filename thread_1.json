@@ -1,0 +1,45 @@
+{
+  "thread_id": "thread_1",
+  "messages": [
+    {
+      "type": "HumanMessage",
+      "content": "Summarize our conversation so far"
+    },
+    {
+      "type": "AIMessage",
+      "content": "You are looking to book an appointment, but we have not yet determined the date, time, patient name, or specialty for the appointment. Let's start by confirming the date for the appointment. When would you like to schedule the appointment?"
+    },
+    {
+      "type": "HumanMessage",
+      "content": "Hi"
+    },
+    {
+      "type": "AIMessage",
+      "content": "Hello! How can I assist you today?"
+    },
+    {
+      "type": "HumanMessage",
+      "content": "what is your function?"
+    },
+    {
+      "type": "AIMessage",
+      "content": "I am a scheduling assistant. I can help you book appointments with healthcare providers. If you need to schedule an appointment, feel free to provide me with the necessary details. How can I assist you today?"
+    },
+    {
+      "type": "HumanMessage",
+      "content": "are you allowed to give medical advice?"
+    },
+    {
+      "type": "AIMessage",
+      "content": "I am not able to provide medical advice. My primary function is to assist with scheduling appointments and providing information related to appointment bookings. If you have any medical concerns or questions, it's best to consult with a healthcare professional. How can I assist you with scheduling an appointment today?"
+    },
+    {
+      "type": "HumanMessage",
+      "content": "summarize our conversation so far"
+    },
+    {
+      "type": "AIMessage",
+      "content": "We have discussed that I am a scheduling assistant and cannot provide medical advice. We have not yet determined the details for booking an appointment. Let's start by confirming the date for the appointment. When would you like to schedule the appointment?"
+    }
+  ]
+}

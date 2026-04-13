@@ -1,0 +1,2 @@
+appointment_id,user_id,patient_name,date,specialty,time,status
+APT-1001,user_123,Tendai Ball,2026-04-15,cardiology,9:00 AM,booked
