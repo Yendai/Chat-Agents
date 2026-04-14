@@ -4,11 +4,10 @@ This repository contains Jupyter notebooks and dataset files for a chat agent pr
 
 ## Contents
 
-- `Agent00.ipynb` - Notebook for initial experiments.
-- `Agent01.ipynb` - Notebook for follow-up work.
-- `Agent02.ipynb` - Current notebook in active development.
-- `appointments.csv`, `availability.csv`, `thread_1.json`, `users.csv` - Sample data files used by the notebooks.
-- `threads/` - Additional thread data.
+- `Agent00.ipynb` - Notebook for first ReAct agent following tutorials.
+- `Agent01.ipynb` - Notebook for Rebuilt agent using notes
+- `Agent02.ipynb` - Notebook for basic scheduler aent.
+- `appointments.csv`, `availability.csv`, `thread_1.json`, `users.csv` - Sample data files used by scheduler agents.
 
 ## Getting Started
 

@@ -1,0 +1,214 @@
+{
+  "thread_id": "thread_04",
+  "booking": {
+    "appointment_id": "APPT_7428",
+    "user_id": "user_123",
+    "patient_name": "Tendai Ball",
+    "date": "2026-04-15",
+    "specialty": "cardiology",
+    "time": "9:00 AM",
+    "status": "booked"
+  },
+  "messages": [
+    {
+      "type": "HumanMessage",
+      "content": "Hello, I want to book an appointment for Tendai Ball on April 15th with cardiology."
+    },
+    {
+      "type": "AIMessage",
+      "content": ""
+    },
+    {
+      "type": "ToolMessage",
+      "content": "Found user_id: user_123 for Tendai Ball"
+    },
+    {
+      "type": "AIMessage",
+      "content": ""
+    },
+    {
+      "type": "ToolMessage",
+      "content": "Generated appointment_id: APPT_3984"
+    },
+    {
+      "type": "AIMessage",
+      "content": ""
+    },
+    {
+      "type": "ToolMessage",
+      "content": "No available slots for cardiology on 2024-04-15."
+    },
+    {
+      "type": "AIMessage",
+      "content": ""
+    },
+    {
+      "type": "ToolMessage",
+      "content": "No available slots for cardiology on 2024-04-16."
+    },
+    {
+      "type": "AIMessage",
+      "content": ""
+    },
+    {
+      "type": "ToolMessage",
+      "content": "No available slots for cardiology on 2024-04-17."
+    },
+    {
+      "type": "AIMessage",
+      "content": ""
+    },
+    {
+      "type": "ToolMessage",
+      "content": "No available slots for cardiology on 2024-04-18."
+    },
+    {
+      "type": "AIMessage",
+      "content": ""
+    },
+    {
+      "type": "ToolMessage",
+      "content": "No available slots for cardiology on 2024-04-19."
+    },
+    {
+      "type": "AIMessage",
+      "content": ""
+    },
+    {
+      "type": "ToolMessage",
+      "content": "No available slots for cardiology on 2024-04-20."
+    },
+    {
+      "type": "AIMessage",
+      "content": ""
+    },
+    {
+      "type": "ToolMessage",
+      "content": "No available slots for cardiology on 2024-04-21."
+    },
+    {
+      "type": "AIMessage",
+      "content": ""
+    },
+    {
+      "type": "ToolMessage",
+      "content": "No available slots for cardiology on 2024-04-22."
+    },
+    {
+      "type": "AIMessage",
+      "content": ""
+    },
+    {
+      "type": "ToolMessage",
+      "content": "No available slots for cardiology on 2024-04-23."
+    },
+    {
+      "type": "AIMessage",
+      "content": ""
+    },
+    {
+      "type": "ToolMessage",
+      "content": "No available slots for cardiology on 2024-04-24."
+    },
+    {
+      "type": "AIMessage",
+      "content": ""
+    },
+    {
+      "type": "ToolMessage",
+      "content": "No available slots for cardiology on 2024-04-25."
+    },
+    {
+      "type": "AIMessage",
+      "content": ""
+    },
+    {
+      "type": "ToolMessage",
+      "content": "No available slots for cardiology on 2024-04-26."
+    },
+    {
+      "type": "AIMessage",
+      "content": ""
+    },
+    {
+      "type": "ToolMessage",
+      "content": "No available slots for cardiology on 2024-04-27."
+    },
+    {
+      "type": "AIMessage",
+      "content": ""
+    },
+    {
+      "type": "ToolMessage",
+      "content": "No available slots for cardiology on 2024-04-28."
+    },
+    {
+      "type": "AIMessage",
+      "content": ""
+    },
+    {
+      "type": "ToolMessage",
+      "content": "No available slots for cardiology on 2024-04-29."
+    },
+    {
+      "type": "AIMessage",
+      "content": ""
+    },
+    {
+      "type": "ToolMessage",
+      "content": "No available slots for cardiology on 2024-04-30."
+    },
+    {
+      "type": "AIMessage",
+      "content": "Unfortunately, there are no available slots for cardiology appointments from April 15th to April 30th, 2024. Would you like to choose a different date or specialty?"
+    },
+    {
+      "type": "HumanMessage",
+      "content": "Hello, I want to book an appointment for Tendai Ball on April 15th, 2026 with cardiology."
+    },
+    {
+      "type": "AIMessage",
+      "content": ""
+    },
+    {
+      "type": "ToolMessage",
+      "content": "Found user_id: user_123 for Tendai Ball"
+    },
+    {
+      "type": "AIMessage",
+      "content": ""
+    },
+    {
+      "type": "ToolMessage",
+      "content": "Generated appointment_id: APPT_7428"
+    },
+    {
+      "type": "AIMessage",
+      "content": ""
+    },
+    {
+      "type": "ToolMessage",
+      "content": "Available slots: ['9:00 AM', '1:30 PM']"
+    },
+    {
+      "type": "AIMessage",
+      "content": ""
+    },
+    {
+      "type": "ToolMessage",
+      "content": "Slot confirmed at 9:00 AM"
+    },
+    {
+      "type": "AIMessage",
+      "content": ""
+    },
+    {
+      "type": "ToolMessage",
+      "content": "Booking is complete."
+    },
+    {
+      "type": "AIMessage",
+      "content": "The appointment for Tendai Ball has been successfully booked with cardiology on April 15th, 2026 at 9:00 AM. If you need any further assistance, feel free to ask!"
+    }
+  ]
+}

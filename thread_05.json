@@ -1,0 +1,94 @@
+{
+  "thread_id": "thread_05",
+  "booking": {
+    "appointment_id": "APPT_1072",
+    "user_id": "user_123",
+    "patient_name": "Tendai Ball",
+    "date": "2026-04-15",
+    "specialty": "cardiology",
+    "time": "1:30 PM",
+    "status": "booked"
+  },
+  "messages": [
+    {
+      "type": "HumanMessage",
+      "content": "My name is Tendai Ball and I want to book a cardiology appointment on April 15, 2026. What times are available?"
+    },
+    {
+      "type": "AIMessage",
+      "content": ""
+    },
+    {
+      "type": "ToolMessage",
+      "content": "Found user_id: user_123 for Tendai Ball"
+    },
+    {
+      "type": "AIMessage",
+      "content": ""
+    },
+    {
+      "type": "ToolMessage",
+      "content": "Generated appointment_id: APPT_1072"
+    },
+    {
+      "type": "AIMessage",
+      "content": ""
+    },
+    {
+      "type": "ToolMessage",
+      "content": "Available slots: ['9:00 AM', '1:30 PM']"
+    },
+    {
+      "type": "AIMessage",
+      "content": ""
+    },
+    {
+      "type": "ToolMessage",
+      "content": "Still missing: ['time']"
+    },
+    {
+      "type": "AIMessage",
+      "content": "The available time slots for your cardiology appointment on April 15, 2026, are 9:00 AM and 1:30 PM. Which time would you like to book?"
+    },
+    {
+      "type": "HumanMessage",
+      "content": "can I book for 1:30pm?"
+    },
+    {
+      "type": "AIMessage",
+      "content": ""
+    },
+    {
+      "type": "ToolMessage",
+      "content": "Slot confirmed at 1:30 PM"
+    },
+    {
+      "type": "AIMessage",
+      "content": ""
+    },
+    {
+      "type": "ToolMessage",
+      "content": "Booking is complete."
+    },
+    {
+      "type": "AIMessage",
+      "content": "Your cardiology appointment has been successfully booked for April 15, 2026, at 1:30 PM. If you need any further assistance, feel free to ask!"
+    },
+    {
+      "type": "HumanMessage",
+      "content": "save my booking"
+    },
+    {
+      "type": "AIMessage",
+      "content": ""
+    },
+    {
+      "type": "ToolMessage",
+      "content": "Booking saved: APPT_1072"
+    },
+    {
+      "type": "AIMessage",
+      "content": "Your booking has been saved successfully. If you have any more questions or need further assistance, just let me know!"
+    }
+  ]
+}
